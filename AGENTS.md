@@ -7,3 +7,4 @@
 - Preserve os materiais históricos. Identifique adaptações de exercícios e inclua a fonte original.
 - Ao alterar exemplos, confira formato, restrições e respostas esperadas. Ao mover arquivos, atualize os links que apontam para eles.
 - Mudanças em remotos, commits e publicação dependem do pedido do usuário para a tarefa.
+- Entregas e apresentações ao orientador ficam em docs/apresentacoes/ com a data no nome (AAAA-MM-DD), uma por entrega.
