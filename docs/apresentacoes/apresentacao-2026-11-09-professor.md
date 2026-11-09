@@ -36,7 +36,7 @@ Fundamentação: ementa oficial da OBI Programação, trilha Neps Academy e lite
 
 **M01 — Introdução (8 aulas, sem código)**
 
-- M01-A01 · O que é programação competitiva? — o formato: resolver problemas com código e submeter a um juiz.
+- M01-A01 · O que é programação competitiva? — explica o formato: desafios resolvidos com código e corrigidos por um juiz.
 - M01-A02 · Por que participar? — benefícios: entrevistas técnicas, raciocínio, olimpíadas e universidade.
 - M01-A03 · OBI e InterIF — as duas competições que guiam o curso.
 - M01-A04 · Linguagens — Python no curso, C++ a mais usada nas competições; os problemas são os mesmos.
