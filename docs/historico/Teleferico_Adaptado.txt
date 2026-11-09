@@ -1,0 +1,72 @@
+
+**Teleférico**
+
+A turma do colégio vai fazer uma excursão na serra e os alunos vão tomar um teleférico para subir até o pico de uma montanha. A cabine pode transportar, no máximo, **C alunos por viagem**.
+
+Por exemplo, se a cabine comporta **10 alunos** e a turma tem **20 alunos**, é possível transportar todos em **duas viagens**, levando 10 alunos em cada uma.
+
+A cabine não precisa estar completamente cheia para realizar uma viagem, mas nenhum aluno pode ficar para trás.
+
+Dados a capacidade **C** da cabine e o número total **A** de alunos, escreva um programa que determine o **menor número de viagens necessário para levar todos os alunos até o pico da montanha**.
+
+**Entrada**
+
+A primeira linha contém um número inteiro **C**, representando a capacidade da cabine.
+
+A segunda linha contém um número inteiro **A**, representando a quantidade total de alunos.
+
+**Saída**
+
+Imprima uma linha contendo um número inteiro: o menor número de viagens necessário para transportar todos os alunos.
+
+**Restrições**
+
+- 2 ≤ C ≤ 100.
+- 1 ≤ A ≤ 1.000.
+
+**Exemplo 1**
+
+Entrada:
+
+```text
+10
+20
+```
+
+Saída:
+
+```text
+2
+```
+
+**Exemplo 2**
+
+Entrada:
+
+```text
+12
+55
+```
+
+Saída:
+
+```text
+5
+```
+
+**Exemplo 3**
+
+Entrada:
+
+```text
+100
+87
+```
+
+Saída:
+
+```text
+1
+```
+
+*Adaptação didática do problema [Teleférico — OBI 2017](https://olimpiada.ic.unicamp.br/pratique/p1/2017/f1/teleferico/), com a remoção da exigência de acompanhamento por um monitor.*

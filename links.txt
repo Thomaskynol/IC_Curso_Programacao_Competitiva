@@ -1,0 +1,6 @@
+https://huggingface.co/datasets/Autoceres/Agricorp
+https://huggingface.co/datasets/KaraAgroAI/Drone-based-Agricultural-Dataset-for-Crop-Yield-Estimation
+https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science
+https://www.udemy.com/course/maratona-de-programacao/?couponCode=UDEAFFMX1126
+https://neps.academy/br/track/programador-competitivo
+

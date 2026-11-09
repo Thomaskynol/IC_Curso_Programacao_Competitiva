@@ -1,0 +1,14 @@
+# Materiais de transferência e edição local
+/IC_Programacao_Competitiva_Kit.zip
+/.ic-import/
+/midia/brutos/
+
+# Arquivos temporários de Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Configuração local
+.env
+.DS_Store
